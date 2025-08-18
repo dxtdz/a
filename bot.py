@@ -15,7 +15,7 @@ from datetime import datetime
 from typing import Dict, Any
 
 # Nhập dữ liệu khi khởi chạy
-TOKEN = "MTQwMTUyNTAxMzAxNzkyMzYyNA.GrReIb.Jfyq4hxDiqX6jxZ3eeuBiwR3UwyVvQuU5X0o5U"
+TOKEN = ""
 IDADMIN_GOC = 1140857678034378762
 
 intents = discord.Intents.default()
@@ -2130,3 +2130,4 @@ async def hdan(ctx):
        
 
 bot.run(TOKEN)
+
